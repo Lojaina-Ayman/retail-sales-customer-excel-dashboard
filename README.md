@@ -7,10 +7,10 @@
 ## 🖥️ Dashboard Previews
 
 ### 1. Sales Performance Dashboard
-![Sales Dashboard](assets/sales_dashboard.png)
+![Sales Dashboard](assets/Sales%20Dashboard.png)
 
 ### 2. Customer Analytics Dashboard
-![Customer Dashboard](assets/customer_dashboard.png)
+![Customer Dashboard](assets/Customer%20Dashboard.png)
 
 ---
 
