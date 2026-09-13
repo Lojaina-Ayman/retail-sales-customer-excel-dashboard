@@ -49,6 +49,7 @@
 
 1. **Source Data Ingestion:**
    * Loaded raw transactional retail records into Excel Power Query.
+   * The raw dataset used for this analysis is available in the [`data/`](data/) directory.
 
 2. **Data Cleaning & Type Enforcement:**
    * Formatted `Order Date` and `Ship Date` fields to standard Date formats (`YYYY-MM-DD`).
